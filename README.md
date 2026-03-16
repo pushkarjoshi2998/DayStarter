@@ -84,7 +84,7 @@ DayStarter/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/daystarter.git
+git clone https://github.com/pushkarjoshi2998/daystarter.git
 cd daystarter
 ```
 
@@ -186,8 +186,8 @@ This project is licensed under the MIT License.
 
 **Pushkar**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your linkedin](https://linkedin.com/in/yourprofile)
+- GitHub: [@pushkarjoshi2998](https://github.com/pushkarjoshi2998)
+- LinkedIn: [Pushkar Joshi](https://www.linkedin.com/in/pushkar-joshi-653bb3335/)
 
 ---
 
