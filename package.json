@@ -1,0 +1,31 @@
+{
+  "name": "daystarter",
+  "version": "1.0.0",
+  "description": "A feature-rich personal dashboard web app that greets you by name, shows live weather, top news headlines, a daily quote, and your to-do list — all in one place. Built with Node.js, Express.js, EJS, and MongoDB, with dynamic themes that adapt to the time of day and weather conditions.",
+  "homepage": "https://github.com/pushkarjoshi2998/DayStarter#readme",
+  "bugs": {
+    "url": "https://github.com/pushkarjoshi2998/DayStarter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushkarjoshi2998/DayStarter.git"
+  },
+  "license": "ISC",
+  "author": "Pushkar Joshi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "bcrypt": "^6.0.0",
+    "connect-mongo": "^6.0.0",
+    "dotenv": "^17.3.1",
+    "ejs": "^5.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "mongoose": "^9.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
